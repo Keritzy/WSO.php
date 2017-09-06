@@ -1,0 +1,2 @@
+# WSO.php
+admin;admin
